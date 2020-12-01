@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
         printf("'!' - factorial.........(X)\n");
         printf("'^' - power.............(X^Y)\n");
         scanf(" %c", &c);
-
+// что то там
         if (c == '!') { // Если нужно  найти факториал числа то вводим одну переменную
             printf("Enter 'X': \n");
             scanf("%i", &a); //Ввод переменной

@@ -2,7 +2,7 @@
 //Калькулятор
 #include <stdio.h>
 int main(int argc, char *argv[]) {
-//просто изменения
+
     int a, b ;
     char c;
     char r = 'y';

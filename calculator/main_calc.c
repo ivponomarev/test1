@@ -5,7 +5,8 @@ int main(int argc, char *argv[]) {
 // какая то фигня
     int a, b ;
     char c;
-    char r = 'y';
+
+    //char r = 'y';
     do {
         printf("Enter operation type: \n");
         printf("'+' - addition..........(X+Y)\n");
